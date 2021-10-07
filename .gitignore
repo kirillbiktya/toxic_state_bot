@@ -1,4 +1,5 @@
-/venv/
+venv
 .idea
 build
 dist
+toxic_state_bot.egg-info
