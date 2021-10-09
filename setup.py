@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 dist = setup(
     name="toxic_state_bot",
-    version='0.0.1a2',
+    version='0.0.1a4',
     author="kirillbiktya",
     author_email="kirillbiktya@gmail.com",
     description="Toxic Zone bot",
